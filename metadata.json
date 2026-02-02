@@ -1,0 +1,8 @@
+{
+  "name": "MedSync CRM",
+  "description": "A professional Clinical CRM for patient management, scheduling, and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
